@@ -1,0 +1,1 @@
+../../pool/packages/alterlinux-fcitx-conf-1.1-2-any.pkg.tar.zst.sig

@@ -1,0 +1,1 @@
+../../pool/packages/alterlinux-live-tools-1.9-1-any.pkg.tar.zst.sig

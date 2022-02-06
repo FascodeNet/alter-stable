@@ -1,0 +1,1 @@
+../../pool/packages/alterlinux-keyring-20201117-2-any.pkg.tar.zst.sig

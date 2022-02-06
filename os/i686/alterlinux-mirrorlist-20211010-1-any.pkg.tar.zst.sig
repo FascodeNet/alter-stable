@@ -1,0 +1,1 @@
+../../pool/packages/alterlinux-mirrorlist-20211010-1-any.pkg.tar.zst.sig
