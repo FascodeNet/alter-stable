@@ -1,0 +1,1 @@
+../../pool/packages/archlinux32-keyring-20220131-1-any.pkg.tar.zst.sig
